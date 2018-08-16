@@ -1,0 +1,27 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.ti.config.ConfigProperties",
+      "name": "props",
+      "type": "com.ti.config.ConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.ti.config.ConfigProperties",
+      "name": "props.address",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.ti.config.ConfigProperties",
+      "name": "props.age",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.ti.config.ConfigProperties",
+      "name": "props.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
